@@ -1,1 +1,1 @@
-# ​A data analytics project examining how family background, socioeconomic conditions, travel time, and daily habits impact student academic performance. Analyzed student records to uncover key reasons for lower grades and suggest actionable interventions.
+ ​A data analytics project examining how family background, socioeconomic conditions, travel time, and daily habits impact student academic performance. Analyzed student records to uncover key reasons for lower grades and suggest actionable interventions.
